@@ -1,25 +1,25 @@
-# Todo Application
-Todo application developed using JSP, Servlet, JDBC and MySQL Database.
+# Task Management System
 
-## Following features
-- Add todo
-- Edit todo
-- List Dodo
-- Delete Todo
-- Login
-- Signup
-- Responsive layout
+Task management application developed using Java (JSP & Servlets), JDBC, and MySQL.  
+The application allows users to securely log in and manage their daily tasks through a clean and structured interface.
 
-## Technology stack
+## 🚀 Features
+- User Login
+- User Signup
+- Add Task
+- Edit Task
+- Delete Task
+- View Task List
+- Responsive Layout
+
+## 🛠 Technology Stack
 - Java 8+
-- JSP and Servlet
+- JSP & Servlets
 - JDBC
-- MySQL database
+- MySQL Database
 - Eclipse IDE
-- Tomcat server 8+
+- Apache Tomcat 8+
 
-## Blog post to develop this project from scratch
-
-Refer blog tutorial at 
-<a href="https://www.javaguides.net/2019/10/build-todo-app-using-jsp-servlet-jdbc-and-mysql.html"> Build Todo App using JSP, Servlet, JDBC and MySQL</a>
-# Task-Management
+## 📌 Description
+This project demonstrates a basic Java web application using MVC architecture.  
+It includes authentication, session handling, and CRUD operations with MySQL database integration.
